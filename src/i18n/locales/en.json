@@ -1,0 +1,367 @@
+{
+  "nav": {
+    "institutions": "Educational Institutions",
+    "jobRequirements": "Job Requirements",
+    "map": "Map",
+    "vacancies": "Vacancies",
+    "programs": "Programs",
+    "classifiers": "Classifiers",
+    "certificates": "Certificates",
+    "councils": "Councils",
+    "centers": "Centers",
+    "schools": "Schools"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "resources": "Resources", 
+    "support": "Support",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "publicOffer": "Public Offer",
+    "allRightsReserved": "All rights reserved"
+  },
+  "home": {
+    "title": "Professional Education Portal",
+    "subtitle": "Discover vocational education opportunities across Uzbekistan. Explore institutions, programs, and career pathways.",
+    "institutions": "Institutions",
+    "interactiveMap": "Interactive Map",
+    "jobRequirements": "Job Requirements",
+    "findYourPath": "Find Your Path",
+    "searchPlaceholder": "Search for institutions, programs, jobs...",
+    "searchDescription": "Search across institutions, programs, job requirements, and more",
+    "recommendedInstitutions": "Recommended Institutions",
+    "recommendedDescription": "Explore top-rated educational institutions across Uzbekistan",
+    "viewAllInstitutions": "View All Institutions",
+    "popularCareerPaths": "Popular Career Paths",
+    "popularDescription": "Explore trending occupations and career opportunities",
+    "faq": "Frequently Asked Questions",
+    "faqDescription": "Get answers to common questions about vocational education",
+    "stats": {
+      "institutions": "Educational Institutions",
+      "students": "Students Enrolled",
+      "programs": "Career Programs"
+    }
+  },
+  "search": {
+    "title": "Search Results",
+    "placeholder": "Search for institutions, programs, jobs...",
+    "resultsFor": "Results for",
+    "found": "found",
+    "noResults": "No results found",
+    "tryAdjusting": "Try adjusting your search terms or filters",
+    "sortByRelevance": "Sort by Relevance",
+    "sortAlphabetically": "Sort Alphabetically",
+    "all": "All",
+    "match": "match"
+  },
+  "institutions": {
+    "title": "Educational Institutions",
+    "description": "Explore educational institutions across Uzbekistan",
+    "filters": "Filters",
+    "region": "Region",
+    "allRegions": "All regions",
+    "ownership": "Ownership",
+    "allTypes": "All types",
+    "state": "State",
+    "private": "Private",
+    "capacityRange": "Capacity Range",
+    "facilities": "Facilities",
+    "applyFilters": "Apply Filters",
+    "sortByName": "Sort by Name",
+    "sortByCapacity": "Sort by Capacity",
+    "sortByEmployment": "Sort by Employment Rate",
+    "noInstitutions": "No institutions found",
+    "adjustFilters": "Try adjusting your filters to see more results",
+    "viewProfile": "View Profile",
+    "capacity": "Capacity",
+    "employmentRate": "Employment Rate",
+    "students": "students"
+  },
+  "jobs": {
+    "title": "Job Requirements",
+    "description": "Explore occupation requirements, qualifications, and career pathways in Uzbekistan's vocational education system",
+    "searchPlaceholder": "Search job requirements...",
+    "nqfLevel": "NQF Level",
+    "allLevels": "All Levels",
+    "sortByTitle": "Sort by Title",
+    "sortByNQF": "Sort by NQF Level",
+    "sortByExperience": "Sort by Experience",
+    "found": "Job Requirements Found",
+    "noJobs": "No job requirements found",
+    "adjustSearch": "Try adjusting your search terms or filters",
+    "yearsExperience": "years experience required",
+    "requiredSkills": "Required Skills",
+    "certificates": "Certificates",
+    "inDemandSkills": "Most In-Demand Skills"
+  },
+  "map": {
+    "title": "Interactive Map",
+    "description": "Explore educational institutions across Uzbekistan on our interactive map",
+    "filters": "Filters",
+    "searchPlaceholder": "Search institutions...",
+    "selectRegion": "Select region",
+    "clearFilters": "Clear Filters",
+    "institutions": "Institutions",
+    "capacity": "capacity",
+    "noInstitutions": "No institutions found",
+    "mapIntegration": "Map integration with Leaflet will be displayed here",
+    "viewFullProfile": "View Full Profile"
+  },
+  "programs": {
+    "title": "Educational Programs",
+    "description": "Explore comprehensive educational programs and curricula offered across Uzbekistan's vocational institutions",
+    "searchPlaceholder": "Search programs...",
+    "specialization": "Specialization",
+    "allSpecializations": "All Specializations",
+    "nqfLevel": "NQF Level",
+    "allLevels": "All Levels",
+    "available": "Programs Available",
+    "duration": "Duration",
+    "years": "years",
+    "coreSubjects": "Core Subjects",
+    "availableAt": "Available at",
+    "institution": "institution",
+    "institutions": "institutions",
+    "contractFee": "Contract Fee",
+    "grantPlaces": "Grant Places",
+    "viewDetails": "View Details",
+    "noPrograms": "No programs found",
+    "adjustSearch": "Try adjusting your search terms or filters"
+  },
+  "vacancies": {
+    "title": "Job Vacancies",
+    "description": "Find current job openings and career opportunities from educational institutions and partner companies",
+    "searchPlaceholder": "Search vacancies...",
+    "jobType": "Job Type",
+    "allTypes": "All Types",
+    "fullTime": "Full-time",
+    "partTime": "Part-time",
+    "contract": "Contract",
+    "internship": "Internship",
+    "location": "Location",
+    "allLocations": "All Locations",
+    "available": "Vacancies Available",
+    "posted": "Posted",
+    "requirements": "Requirements",
+    "requiredSkills": "Required Skills",
+    "experience": "Experience",
+    "deadline": "Deadline",
+    "applyNow": "Apply Now",
+    "noVacancies": "No vacancies found",
+    "adjustSearch": "Try adjusting your search terms or filters"
+  },
+  "certificates": {
+    "title": "Professional Certificates",
+    "description": "Explore recognized international qualification certificates and professional certifications",
+    "searchPlaceholder": "Search certificates...",
+    "industry": "Industry",
+    "allIndustries": "All Industries",
+    "level": "Level",
+    "allLevels": "All Levels",
+    "available": "Certificates Available",
+    "validFor": "Valid for",
+    "category": "Category",
+    "applicableOccupations": "Applicable Occupations",
+    "learnMore": "Learn More",
+    "noCertificates": "No certificates found",
+    "adjustSearch": "Try adjusting your search terms or filters"
+  },
+  "classifiers": {
+    "title": "Classifiers",
+    "description": "Explore qualification frameworks, job classifications, and professional standards",
+    "searchPlaceholder": "Search classifiers...",
+    "nqf": "NQF",
+    "sqf": "SQF",
+    "jobs": "Jobs",
+    "training": "Training",
+    "occupations": "Occupations",
+    "standards": "Standards",
+    "nationalQualifications": "National Qualifications Framework (NQF)",
+    "sectoralQualifications": "Sectoral Qualification Frameworks (SQF)",
+    "jobClassifications": "Job Classifications",
+    "trainingDirections": "Training Directions",
+    "occupationClassifications": "Occupation Classifications",
+    "professionalStandards": "Professional Standards",
+    "level": "Level",
+    "code": "Code",
+    "jobTitle": "Job Title",
+    "category": "Category",
+    "directionName": "Direction Name",
+    "field": "Field",
+    "title": "Title",
+    "sector": "Sector",
+    "status": "Status",
+    "actions": "Actions",
+    "viewDetails": "View Details"
+  },
+  "councils": {
+    "title": "Qualification Councils",
+    "description": "Explore the structure and activities of qualification councils at republic, sectoral, and regional levels",
+    "republicCouncils": "Republic Councils",
+    "sectoralCouncils": "Sectoral Councils",
+    "regionalCouncils": "Regional Councils",
+    "keyResponsibilities": "Key Responsibilities",
+    "recentActivities": "Recent Activities",
+    "contactInformation": "Contact Information",
+    "level": "Level",
+    "region": "Region"
+  },
+  "centers": {
+    "title": "Assessment Centers",
+    "description": "Find qualification assessment centers across Uzbekistan for professional certification and skills validation",
+    "assessmentCenters": "Assessment Centers",
+    "qualificationTypes": "Qualification Types",
+    "monthlyCapacity": "Monthly Capacity",
+    "availableQualifications": "Available Qualifications",
+    "contactInformation": "Contact Information",
+    "operatingHours": "Operating Hours",
+    "assessmentProcedures": "Assessment Procedures",
+    "getDirections": "Get Directions",
+    "bookAssessment": "Book Assessment"
+  },
+  "schools": {
+    "title": "VET Schools",
+    "description": "General education schools offering vocational training programs across Uzbekistan",
+    "selectRegion": "Select region",
+    "allRegions": "All regions",
+    "selectDistrict": "Select district",
+    "allDistricts": "All districts",
+    "vetSchools": "VET Schools",
+    "students": "Students",
+    "programs": "Programs",
+    "partnerships": "Partnerships",
+    "vocationalPrograms": "Vocational Programs",
+    "businessPartnerships": "Business Partnerships",
+    "equipmentFacilities": "Equipment & Facilities",
+    "careerGuidance": "Career Guidance Survey Results",
+    "enrollment": "Enrollment",
+    "capacity": "capacity",
+    "viewPrograms": "View Programs",
+    "contactSchool": "Contact School",
+    "noSchools": "No schools found",
+    "adjustFilters": "Try adjusting your region or district filters"
+  },
+  "common": {
+    "search": "Search",
+    "filters": "Filters",
+    "loading": "Loading...",
+    "error": "Error",
+    "tryAgain": "Please try again",
+    "backToHome": "Back to Home",
+    "viewAll": "View All",
+    "more": "more",
+    "less": "less",
+    "close": "Close",
+    "open": "Open",
+    "yes": "Yes",
+    "no": "No",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "remove": "Remove",
+    "next": "Next",
+    "previous": "Previous",
+    "page": "Page",
+    "of": "of",
+    "results": "results",
+    "noData": "No data available",
+    "selectAll": "Select All",
+    "clearAll": "Clear All"
+  },
+  "data": {
+    "institutions": {
+      "tashkentStateTechnical": {
+        "name": "Tashkent State Technical University",
+        "type": "Technical University",
+        "programs": ["Computer Science", "Engineering", "Architecture"],
+        "facilities": ["Library", "Laboratory", "Dormitory", "Sports Complex"]
+      },
+      "samarkandEconomics": {
+        "name": "Samarkand Institute of Economics and Service",
+        "type": "Economics Institute",
+        "programs": ["Economics", "Business Administration", "Tourism"],
+        "facilities": ["Library", "Computer Lab", "Conference Hall"]
+      },
+      "bukharaEngineering": {
+        "name": "Bukhara Engineering-Technological Institute",
+        "type": "Engineering Institute",
+        "programs": ["Mechanical Engineering", "Chemical Technology", "Food Technology"],
+        "facilities": ["Workshop", "Laboratory", "Library", "Internship Center"]
+      },
+      "andijanMachineBuilding": {
+        "name": "Andijan Machine-Building Institute",
+        "type": "Technical College",
+        "programs": ["Mechanical Engineering", "Automotive Technology", "Industrial Design"],
+        "facilities": ["Workshop", "Laboratory", "Library", "Sports Complex"]
+      },
+      "ferganaPolytechnic": {
+        "name": "Fergana Polytechnic Institute",
+        "type": "Polytechnic College",
+        "programs": ["Information Technology", "Electronics", "Telecommunications"],
+        "facilities": ["Computer Lab", "Electronics Lab", "Library", "Dormitory"]
+      }
+    },
+    "jobs": {
+      "softwareDeveloper": {
+        "title": "Software Developer",
+        "description": "Develop and maintain software applications using modern programming languages and frameworks.",
+        "requiredSkills": ["Programming", "Database Management", "Problem Solving", "Team Collaboration"],
+        "certificates": ["Microsoft Certified Developer", "Oracle Java Certification"]
+      },
+      "mechanicalEngineer": {
+        "title": "Mechanical Engineer",
+        "description": "Design, develop, and test mechanical devices and systems.",
+        "requiredSkills": ["CAD Software", "Materials Science", "Project Management", "Quality Control"],
+        "certificates": ["Professional Engineer License", "AutoCAD Certification"]
+      },
+      "tourismManager": {
+        "title": "Tourism Manager",
+        "description": "Plan and coordinate tourism activities and services.",
+        "requiredSkills": ["Customer Service", "Event Planning", "Marketing", "Foreign Languages"],
+        "certificates": ["Tourism Management Certificate", "IATA Certification"]
+      }
+    },
+    "programs": {
+      "computerScience": {
+        "name": "Computer Science",
+        "specialization": "Information Technology",
+        "curriculum": ["Programming Fundamentals", "Data Structures", "Algorithms", "Database Systems", "Software Engineering"],
+        "admissionRequirements": ["High School Diploma", "Mathematics Proficiency", "English Language Skills"]
+      },
+      "mechanicalEngineering": {
+        "name": "Mechanical Engineering",
+        "specialization": "Engineering",
+        "curriculum": ["Engineering Mathematics", "Thermodynamics", "Materials Science", "Machine Design", "Manufacturing Processes"],
+        "admissionRequirements": ["High School Diploma", "Physics and Mathematics", "Technical Drawing Skills"]
+      },
+      "tourismManagement": {
+        "name": "Tourism Management",
+        "specialization": "Service Industry",
+        "curriculum": ["Tourism Geography", "Hospitality Management", "Marketing", "Foreign Languages", "Cultural Studies"],
+        "admissionRequirements": ["High School Diploma", "Language Skills", "Communication Skills"]
+      }
+    },
+    "vacancies": {
+      "frontendDeveloper": {
+        "title": "Frontend Developer",
+        "company": "TechCorp Uzbekistan",
+        "requirements": ["Bachelor's degree in Computer Science", "2+ years experience", "React.js proficiency"],
+        "skills": ["JavaScript", "React", "TypeScript", "CSS", "HTML"]
+      },
+      "mechanicalEngineerVacancy": {
+        "title": "Mechanical Engineer",
+        "company": "Industrial Solutions LLC",
+        "requirements": ["Engineering degree", "3+ years experience", "AutoCAD skills"],
+        "skills": ["CAD Software", "Project Management", "Quality Control", "Technical Documentation"]
+      },
+      "tourismCoordinator": {
+        "title": "Tourism Coordinator",
+        "company": "Silk Road Tours",
+        "requirements": ["Tourism or Hospitality degree", "1+ years experience", "Multilingual skills"],
+        "skills": ["Customer Service", "Event Planning", "Foreign Languages", "Cultural Knowledge"]
+      }
+    }
+  }
+}

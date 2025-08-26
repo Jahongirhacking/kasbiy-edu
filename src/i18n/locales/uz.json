@@ -1,0 +1,382 @@
+{
+  "nav": {
+    "institutions": "Ta'lim muassasalari",
+    "jobRequirements": "Ish talablari", 
+    "map": "Xarita",
+    "vacancies": "Bo'sh ish o'rinlari",
+    "programs": "Dasturlar",
+    "classifiers": "Klassifikatorlar",
+    "certificates": "Sertifikatlar",
+    "councils": "Kengashlar",
+    "centers": "Markazlar",
+    "schools": "Maktablar"
+  },
+  "footer": {
+    "quickLinks": "Tezkor havolalar",
+    "resources": "Resurslar",
+    "support": "Yordam",
+    "aboutUs": "Biz haqimizda",
+    "contact": "Aloqa",
+    "publicOffer": "Ommaviy taklif",
+    "allRightsReserved": "Barcha huquqlar himoyalangan"
+  },
+  "home": {
+    "title": "Kasbiy ta'lim portali",
+    "subtitle": "O'zbekiston bo'ylab kasbiy ta'lim imkoniyatlarini kashf eting. Muassasalar, dasturlar va martaba yo'llarini o'rganing.",
+    "institutions": "Muassasalar",
+    "interactiveMap": "Interaktiv xarita",
+    "jobRequirements": "Ish talablari",
+    "findYourPath": "O'z yo'lingizni toping",
+    "searchPlaceholder": "Muassasalar, dasturlar, ishlarni qidiring...",
+    "searchDescription": "Muassasalar, dasturlar, ish talablari va boshqalar bo'yicha qidiring",
+    "recommendedInstitutions": "Tavsiya etilgan muassasalar",
+    "recommendedDescription": "O'zbekiston bo'ylab eng yaxshi ta'lim muassasalarini o'rganing",
+    "viewAllInstitutions": "Barcha muassasalarni ko'rish",
+    "popularCareerPaths": "Mashhur martaba yo'llari",
+    "popularDescription": "Trend kasblar va martaba imkoniyatlarini o'rganing",
+    "faq": "Tez-tez so'raladigan savollar",
+    "faqDescription": "Kasbiy ta'lim bo'yicha umumiy savollarga javob oling",
+    "stats": {
+      "institutions": "Ta'lim muassasalari",
+      "students": "Ro'yxatdan o'tgan talabalar",
+      "programs": "Martaba dasturlari"
+    },
+    "faqItems": {
+      "question1": "O'z hududimdagi ta'lim muassasalarini qanday topaman?",
+      "answer1": "Yaqin atrofingizdagi ta'lim imkoniyatlarini topish uchun bizning interaktiv xaritamizdan foydalaning yoki hududiy filtrlar bilan muassasalar sahifasini ko'ring.",
+      "question2": "Kasbiy dasturlar uchun qabul talablari qanday?",
+      "answer2": "Qabul talablari dastur va muassasaga qarab farq qiladi. Akademik malaka va kirish imtihonlari kabi aniq talablar uchun alohida muassasa profillarini tekshiring.",
+      "question3": "Muassasaning akkreditatsiyasini qanday tekshiraman?",
+      "answer3": "Bizning portalda ro'yxatga olingan barcha muassasalar rasmiy tan olingan. Ularning akkreditatsiya holatini batafsil profillarda tekshirishingiz mumkin.",
+      "question4": "Stipendiya imkoniyatlari mavjudmi?",
+      "answer4": "Ha, ko'plab muassasalar grant va stipendiyalar taklif qiladi. Mavjud moliyaviy yordam variantlari uchun muassasa profillaridagi 'Talabalar yordami' bo'limini tekshiring."
+    }
+  },
+  "search": {
+    "title": "Qidiruv natijalari",
+    "placeholder": "Muassasalar, dasturlar, ishlarni qidiring...",
+    "resultsFor": "Qidiruv natijalari",
+    "found": "topildi",
+    "noResults": "Hech narsa topilmadi",
+    "tryAdjusting": "Qidiruv so'zlaringiz yoki filtrlaringizni o'zgartirib ko'ring",
+    "sortByRelevance": "Mos kelishiga ko'ra saralash",
+    "sortAlphabetically": "Alifbo tartibida saralash",
+    "all": "Hammasi",
+    "match": "mos keladi",
+    "filters": "Filtrlar",
+    "search": "Qidirish"
+  },
+  "institutions": {
+    "title": "Ta'lim muassasalari",
+    "description": "O'zbekiston bo'ylab ta'lim muassasalarini o'rganing",
+    "filters": "Filtrlar",
+    "region": "Viloyat",
+    "allRegions": "Barcha viloyatlar",
+    "ownership": "Mulkchilik",
+    "allTypes": "Barcha turlar",
+    "state": "Davlat",
+    "private": "Xususiy",
+    "capacityRange": "Sig'im",
+    "facilities": "Imkoniyatlar",
+    "applyFilters": "Filtrlarni qo'llash",
+    "sortByName": "Nom bo'yicha saralash",
+    "sortByCapacity": "Sig'im bo'yicha saralash",
+    "sortByEmployment": "Bandlik darajasi bo'yicha saralash",
+    "noInstitutions": "Hech qanday muassasa topilmadi",
+    "adjustFilters": "Ko'proq natijalar ko'rish uchun filtrlaringizni sozlang",
+    "viewProfile": "Profilni ko'rish",
+    "capacity": "Sig'im",
+    "employmentRate": "Bandlik darajasi",
+    "students": "talaba"
+  },
+  "jobs": {
+    "title": "Ish talablari",
+    "description": "O'zbekistonning kasbiy ta'lim tizimida kasb talablari, malakalar va martaba yo'llarini o'rganing",
+    "searchPlaceholder": "Ish talablarini qidiring...",
+    "nqfLevel": "NQF darajasi",
+    "allLevels": "Barcha darajalar",
+    "sortByTitle": "Sarlavha bo'yicha saralash",
+    "sortByNQF": "NQF darajasi bo'yicha saralash",
+    "sortByExperience": "Tajriba bo'yicha saralash",
+    "found": "Ish talablari topildi",
+    "noJobs": "Hech qanday ish talabi topilmadi",
+    "adjustSearch": "Qidiruv so'zlaringiz yoki filtrlaringizni o'zgartirib ko'ring",
+    "yearsExperience": "yillik tajriba talab qilinadi",
+    "requiredSkills": "Talab qilinadigan ko'nikmalar",
+    "certificates": "Sertifikatlar",
+    "inDemandSkills": "Eng talab qilinadigan ko'nikmalar"
+  },
+  "map": {
+    "title": "Interaktiv xarita",
+    "description": "Bizning interaktiv xaritamizda O'zbekiston bo'ylab ta'lim muassasalarini o'rganing",
+    "filters": "Filtrlar",
+    "searchPlaceholder": "Muassasalarni qidiring...",
+    "selectRegion": "Viloyatni tanlang",
+    "clearFilters": "Filtrlarni tozalash",
+    "institutions": "Muassasalar",
+    "capacity": "sig'im",
+    "noInstitutions": "Hech qanday muassasa topilmadi",
+    "mapIntegration": "Leaflet bilan xarita integratsiyasi bu yerda ko'rsatiladi",
+    "viewFullProfile": "To'liq profilni ko'rish"
+  },
+  "programs": {
+    "title": "Ta'lim dasturlari",
+    "description": "O'zbekistonning kasbiy ta'lim muassasalarida taklif qilinadigan keng qamrovli ta'lim dasturlari va o'quv rejalarini o'rganing",
+    "searchPlaceholder": "Dasturlarni qidiring...",
+    "specialization": "Mutaxassislik",
+    "allSpecializations": "Barcha mutaxassisliklar",
+    "nqfLevel": "NQF darajasi",
+    "allLevels": "Barcha darajalar",
+    "available": "Mavjud dasturlar",
+    "duration": "Davomiyligi",
+    "years": "yil",
+    "coreSubjects": "Asosiy fanlar",
+    "availableAt": "Mavjud:",
+    "institution": "muassasa",
+    "institutions": "muassasalar",
+    "contractFee": "Kontrakt to'lovi",
+    "grantPlaces": "Grant o'rinlari",
+    "viewDetails": "Batafsil ko'rish",
+    "noPrograms": "Hech qanday dastur topilmadi",
+    "adjustSearch": "Qidiruv so'zlaringiz yoki filtrlaringizni o'zgartirib ko'ring"
+  },
+  "vacancies": {
+    "title": "Bo'sh ish o'rinlari",
+    "description": "Ta'lim muassasalari va hamkor kompaniyalardan joriy ish imkoniyatlari va martaba imkoniyatlarini toping",
+    "searchPlaceholder": "Bo'sh ish o'rinlarini qidiring...",
+    "jobType": "Ish turi",
+    "allTypes": "Barcha turlar",
+    "fullTime": "To'liq vaqtli",
+    "partTime": "Yarim vaqtli",
+    "contract": "Kontrakt",
+    "internship": "Amaliyot",
+    "location": "Joylashuv",
+    "allLocations": "Barcha joylar",
+    "available": "Mavjud bo'sh ish o'rinlari",
+    "posted": "E'lon qilingan",
+    "requirements": "Talablar",
+    "requiredSkills": "Talab qilinadigan ko'nikmalar",
+    "experience": "Tajriba",
+    "deadline": "Muddat",
+    "applyNow": "Hoziroq ariza berish",
+    "noVacancies": "Hech qanday bo'sh ish o'rni topilmadi",
+    "adjustSearch": "Qidiruv so'zlaringiz yoki filtrlaringizni o'zgartirib ko'ring"
+  },
+  "certificates": {
+    "title": "Professional sertifikatlar",
+    "description": "Tan olingan xalqaro malaka sertifikatlari va professional sertifikatlarni o'rganing",
+    "searchPlaceholder": "Sertifikatlarni qidiring...",
+    "industry": "Soha",
+    "allIndustries": "Barcha sohalar",
+    "level": "Daraja",
+    "allLevels": "Barcha darajalar",
+    "available": "Mavjud sertifikatlar",
+    "validFor": "Amal qilish muddati:",
+    "category": "Kategoriya",
+    "applicableOccupations": "Tegishli kasblar",
+    "learnMore": "Batafsil",
+    "noCertificates": "Hech qanday sertifikat topilmadi",
+    "adjustSearch": "Qidiruv so'zlaringiz yoki filtrlaringizni o'zgartirib ko'ring"
+  },
+  "classifiers": {
+    "title": "Klassifikatorlar",
+    "description": "Malaka doiralari, ish klassifikatsiyalari va professional standartlarni o'rganing",
+    "searchPlaceholder": "Klassifikatorlarni qidiring...",
+    "nqf": "NQF",
+    "sqf": "SQF",
+    "jobs": "Ishlar",
+    "training": "Ta'lim",
+    "occupations": "Kasblar",
+    "standards": "Standartlar",
+    "nationalQualifications": "Milliy malaka doirasi (NQF)",
+    "sectoralQualifications": "Tarmoq malaka doiralari (SQF)",
+    "jobClassifications": "Ish klassifikatsiyalari",
+    "trainingDirections": "Ta'lim yo'nalishlari",
+    "occupationClassifications": "Kasb klassifikatsiyalari",
+    "professionalStandards": "Professional standartlar",
+    "level": "Daraja",
+    "code": "Kod",
+    "jobTitle": "Ish nomi",
+    "category": "Kategoriya",
+    "directionName": "Yo'nalish nomi",
+    "field": "Soha",
+    "title": "Sarlavha",
+    "sector": "Sektor",
+    "status": "Holat",
+    "actions": "Amallar",
+    "viewDetails": "Batafsil ko'rish"
+  },
+  "councils": {
+    "title": "Malaka kengashlari",
+    "description": "Respublika, tarmoq va mintaqaviy darajadagi malaka kengashlarining tuzilishi va faoliyatini o'rganing",
+    "republicCouncils": "Respublika kengashlari",
+    "sectoralCouncils": "Tarmoq kengashlari",
+    "regionalCouncils": "Mintaqaviy kengashlar",
+    "keyResponsibilities": "Asosiy mas'uliyatlar",
+    "recentActivities": "So'nggi faoliyatlar",
+    "contactInformation": "Aloqa ma'lumotlari",
+    "level": "Daraja",
+    "region": "Mintaqa"
+  },
+  "centers": {
+    "title": "Baholash markazlari",
+    "description": "Professional sertifikatlashtirish va ko'nikmalarni tasdiqlash uchun O'zbekiston bo'ylab malaka baholash markazlarini toping",
+    "assessmentCenters": "Baholash markazlari",
+    "qualificationTypes": "Malaka turlari",
+    "monthlyCapacity": "Oylik sig'im",
+    "availableQualifications": "Mavjud malakalar",
+    "contactInformation": "Aloqa ma'lumotlari",
+    "operatingHours": "Ish vaqti",
+    "assessmentProcedures": "Baholash tartib-qoidalari",
+    "getDirections": "Yo'nalishni olish",
+    "bookAssessment": "Baholashni bron qilish"
+  },
+  "schools": {
+    "title": "Kasbiy ta'lim maktablari",
+    "description": "O'zbekiston bo'ylab kasbiy ta'lim dasturlarini taklif qiluvchi umumta'lim maktablari",
+    "selectRegion": "Viloyatni tanlang",
+    "allRegions": "Barcha viloyatlar",
+    "selectDistrict": "Tumanni tanlang",
+    "allDistricts": "Barcha tumanlar",
+    "vetSchools": "Kasbiy ta'lim maktablari",
+    "students": "Talabalar",
+    "programs": "Dasturlar",
+    "partnerships": "Hamkorliklar",
+    "vocationalPrograms": "Kasbiy dasturlar",
+    "businessPartnerships": "Biznes hamkorliklari",
+    "equipmentFacilities": "Jihozlar va imkoniyatlar",
+    "careerGuidance": "Martaba yo'nalishi so'rov natijalari",
+    "enrollment": "Ro'yxatga olish",
+    "capacity": "sig'im",
+    "viewPrograms": "Dasturlarni ko'rish",
+    "contactSchool": "Maktab bilan bog'lanish",
+    "noSchools": "Hech qanday maktab topilmadi",
+    "adjustFilters": "Viloyat yoki tuman filtrlaringizni sozlang"
+  },
+  "common": {
+    "search": "Qidirish",
+    "filters": "Filtrlar",
+    "loading": "Yuklanmoqda...",
+    "error": "Xato",
+    "tryAgain": "Iltimos, qayta urinib ko'ring",
+    "backToHome": "Bosh sahifaga qaytish",
+    "viewAll": "Barchasini ko'rish",
+    "more": "ko'proq",
+    "less": "kamroq",
+    "close": "Yopish",
+    "open": "Ochish",
+    "yes": "Ha",
+    "no": "Yo'q",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "delete": "O'chirish",
+    "edit": "Tahrirlash",
+    "add": "Qo'shish",
+    "remove": "Olib tashlash",
+    "next": "Keyingi",
+    "previous": "Oldingi",
+    "page": "Sahifa",
+    "of": "dan",
+    "results": "natijalar",
+    "noData": "Ma'lumot mavjud emas",
+    "selectAll": "Barchasini tanlash",
+    "clearAll": "Barchasini tozalash",
+    "viewProfile": "Profilni ko'rish",
+    "capacity": "Sig'im",
+    "employmentRate": "Bandlik darajasi"
+  },
+  "data": {
+    "institutions": {
+      "tashkentStateTechnical": {
+        "name": "Toshkent davlat texnika universiteti",
+        "type": "Texnika universiteti",
+        "programs": ["Kompyuter fanlari", "Muhandislik", "Arxitektura"],
+        "facilities": ["Kutubxona", "Laboratoriya", "Yotoqxona", "Sport majmuasi"]
+      },
+      "samarkandEconomics": {
+        "name": "Samarqand iqtisodiyot va xizmat instituti",
+        "type": "Iqtisodiyot instituti",
+        "programs": ["Iqtisodiyot", "Biznes boshqaruvi", "Turizm"],
+        "facilities": ["Kutubxona", "Kompyuter laboratoriyasi", "Konferens zali"]
+      },
+      "bukharaEngineering": {
+        "name": "Buxoro muhandislik-texnologiya instituti",
+        "type": "Muhandislik instituti",
+        "programs": ["Mexanika muhandisligi", "Kimyo texnologiyasi", "Oziq-ovqat texnologiyasi"],
+        "facilities": ["Ustaxona", "Laboratoriya", "Kutubxona", "Amaliyot markazi"]
+      },
+      "andijanMachineBuilding": {
+        "name": "Andijon mashinasozlik instituti",
+        "type": "Texnika kolleji",
+        "programs": ["Mexanika muhandisligi", "Avtomobil texnologiyasi", "Sanoat dizayni"],
+        "facilities": ["Ustaxona", "Laboratoriya", "Kutubxona", "Sport majmuasi"]
+      },
+      "ferganaPolytechnic": {
+        "name": "Farg'ona politexnika instituti",
+        "type": "Politexnika kolleji",
+        "programs": ["Axborot texnologiyalari", "Elektronika", "Telekommunikatsiya"],
+        "facilities": ["Kompyuter laboratoriyasi", "Elektronika laboratoriyasi", "Kutubxona", "Yotoqxona"]
+      }
+    },
+    "jobs": {
+      "softwareDeveloper": {
+        "title": "Dasturiy ta'minot ishlab chiqaruvchisi",
+        "description": "Zamonaviy dasturlash tillari va freymvorklardan foydalanib dasturiy ta'minot ilovalarini ishlab chiqish va qo'llab-quvvatlash.",
+        "requiredSkills": ["Dasturlash", "Ma'lumotlar bazasi boshqaruvi", "Muammolarni yechish", "Jamoa hamkorligi"],
+        "certificates": ["Microsoft sertifikatlangan ishlab chiqaruvchi", "Oracle Java sertifikati"]
+      },
+      "mechanicalEngineer": {
+        "title": "Mexanika muhandisi",
+        "description": "Mexanik qurilmalar va tizimlarni loyihalash, ishlab chiqish va sinovdan o'tkazish.",
+        "requiredSkills": ["CAD dasturlari", "Materiallar fani", "Loyiha boshqaruvi", "Sifat nazorati"],
+        "certificates": ["Professional muhandis litsenziyasi", "AutoCAD sertifikati"]
+      },
+      "tourismManager": {
+        "title": "Turizm menejeri",
+        "description": "Turizm faoliyati va xizmatlarini rejalashtirish va muvofiqlashtirish.",
+        "requiredSkills": ["Mijozlarga xizmat ko'rsatish", "Tadbirlarni rejalashtirish", "Marketing", "Chet tillari"],
+        "certificates": ["Turizm boshqaruvi sertifikati", "IATA sertifikati"]
+      }
+    },
+    "programs": {
+      "computerScience": {
+        "name": "Kompyuter fanlari",
+        "specialization": "Axborot texnologiyalari",
+        "curriculum": ["Dasturlash asoslari", "Ma'lumotlar tuzilmalari", "Algoritmlar", "Ma'lumotlar bazasi tizimlari", "Dasturiy ta'minot muhandisligi"],
+        "admissionRequirements": ["O'rta maktab diplomi", "Matematika bilimi", "Ingliz tili ko'nikmalari"]
+      },
+      "mechanicalEngineering": {
+        "name": "Mexanika muhandisligi",
+        "specialization": "Muhandislik",
+        "curriculum": ["Muhandislik matematikasi", "Termodinamika", "Materiallar fani", "Mashina loyihalash", "Ishlab chiqarish jarayonlari"],
+        "admissionRequirements": ["O'rta maktab diplomi", "Fizika va matematika", "Texnik chizma ko'nikmalari"]
+      },
+      "tourismManagement": {
+        "name": "Turizm boshqaruvi",
+        "specialization": "Xizmat sohasi",
+        "curriculum": ["Turizm geografiyasi", "Mehmonxona boshqaruvi", "Marketing", "Chet tillari", "Madaniy tadqiqotlar"],
+        "admissionRequirements": ["O'rta maktab diplomi", "Til ko'nikmalari", "Muloqot ko'nikmalari"]
+      }
+    },
+    "vacancies": {
+      "frontendDeveloper": {
+        "title": "Frontend ishlab chiqaruvchi",
+        "company": "TechCorp O'zbekiston",
+        "requirements": ["Kompyuter fanlari bo'yicha bakalavr darajasi", "2+ yil tajriba", "React.js bilimi"],
+        "skills": ["JavaScript", "React", "TypeScript", "CSS", "HTML"]
+      },
+      "mechanicalEngineerVacancy": {
+        "title": "Mexanika muhandisi",
+        "company": "Sanoat yechimlari MChJ",
+        "requirements": ["Muhandislik darajasi", "3+ yil tajriba", "AutoCAD ko'nikmalari"],
+        "skills": ["CAD dasturlari", "Loyiha boshqaruvi", "Sifat nazorati", "Texnik hujjatlar"]
+      },
+      "tourismCoordinator": {
+        "title": "Turizm koordinatori",
+        "company": "Ipak yo'li turlari",
+        "requirements": ["Turizm yoki mehmonxona darajasi", "1+ yil tajriba", "Ko'p tillilik ko'nikmalari"],
+        "skills": ["Mijozlarga xizmat ko'rsatish", "Tadbirlarni rejalashtirish", "Chet tillari", "Madaniy bilim"]
+      }
+    }
+  }
+}
