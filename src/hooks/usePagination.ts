@@ -1,4 +1,4 @@
-import { IPagination } from "@/api/type";
+import { IPagination } from "@/services/type";
 import { useCallback } from "react";
 import { useSearchParams } from "react-router-dom";
 

@@ -3,9 +3,10 @@ import { Card, CardContent } from "@/components/ui/card"
 import { usePagination } from "@/hooks/usePagination"
 import { InstitutionCard } from "@/pages/institutions/components/InstitutionCard"
 import { useGetInstitutionsQuery } from "@/services/institutions/index"
-import { Flex, Input, Pagination } from 'antd'
+import { Flex, Input, InputProps, Pagination } from 'antd'
 import { Grid, List, MapPin } from "lucide-react"
 import { useState } from "react"
+import { Link } from "react-router-dom"
 import DesktopFilter from "./components/DesktopFilter"
 import InstitutionCardSkeleton from "./components/InstitutionCardSkeleton"
 import MobileFilter from "./components/MobileFilter"
@@ -19,6 +20,17 @@ export const InstitutionsPage = () => {
   const handleSearch = (search: string) => {
     setPagination({ page: 0, size: pagination?.size, search });
   }
+
+  const SearchElement = (props: InputProps) => (
+    <Input.Search
+      placeholder="Qidirish"
+      onSearch={handleSearch}
+      enterButton
+      allowClear
+      defaultValue={pagination?.search}
+      {...props}
+    />
+  )
 
   return (
     <div className="institutions-page container mx-auto px-4 py-8">
@@ -40,13 +52,7 @@ export const InstitutionsPage = () => {
             <div className="flex items-center space-x-4 gap-4 w-full">
               {/* Mobile Filter Button */}
               <MobileFilter />
-
-              <Input.Search
-                className="hidden sm:block"
-                placeholder="Qidirish"
-                onSearch={handleSearch}
-                enterButton
-              />
+              <SearchElement className="hidden sm:block" />
             </div>
 
             <div className="flex items-center space-x-2">
@@ -72,6 +78,8 @@ export const InstitutionsPage = () => {
             placeholder="Qidirish"
             onSearch={handleSearch}
             enterButton
+            allowClear
+            defaultValue={pagination?.search}
             style={{ margin: '0 auto 18px' }}
           />
 
@@ -103,9 +111,10 @@ export const InstitutionsPage = () => {
               <CardContent>
                 <MapPin className="h-12 w-12 mx-auto mb-4 text-muted-foreground" />
                 <h3 className="text-lg font-semibold mb-2">Bunday ta'lim muassasalari yo'q</h3>
-                <p className="text-muted-foreground">
+                <p className="text-muted-foreground mb-4">
                   Boshqa ta'lim muassasalarini qidirib ko'ring
                 </p>
+                <Link to={'/institutions'}><Button>Ta'lim muassasalarini ko'rish</Button></Link>
               </CardContent>
             </Card>
           )}
